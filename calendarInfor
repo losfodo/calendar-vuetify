@@ -1,0 +1,33 @@
+---------firebase---------------------------------
+site firebase browser > go to console > add project + > name project: vue-calendar>>
+> enable google analytics desabilitar botão e criar projeto> continue > nas opçoes ir Database >>
+> usando cloud Firestone a ver tempo real em banco de dados > start in test mode, start e done
+>> start colection> cria os dados abaixo:>>
+id: calEvent e gerar um id aleatorio, 
+field=com name string e value:DoctorAppointment
+field=details-string-value:Dr. Williams at 1:00
+field=start type:string-value:2019/10/14..
+
+web firebase inicial > app-nickname:vue-calendar > register app > firebaseConfig ={dados dentro}
+
+
+---------terminal---------------------------------
+*sudo npm i -g @vue/cli: baixando o vue cli
+*vue create vue-calendar: baixando vue calendario
+*cd vue-calendar: in no projeto
+*ls: mostrar arquivos
+*vue add vuetify: adicionando vuetify no projeto, padrão escolher
+*npm i firebase vue-textarea-autosize: instalar firebase e estilo vue util na hora de colocar os detalhes dimensionando automaticamente com texto.
+*code .   : acessar no vscode
+npm run serve:   rodar o projeto
+
+
+
+
+
+-------------praticidades vsCode------------------
+<!---->
+/**/
+//
+console.log('', )
+console.log('-----------------------------------------')
